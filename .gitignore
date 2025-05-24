@@ -1,4 +1,2 @@
-.pio
-.sconsign.py
-.pre-commit-config.yaml
-.vscode
+*.pio/
+*.vscode/
